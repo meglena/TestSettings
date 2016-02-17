@@ -74,5 +74,5 @@ C:\Users\Meglena\Documents\TestSettings\TestSettings\TestSettings\bin\ko\System.
 C:\Users\Meglena\Documents\TestSettings\TestSettings\TestSettings\bin\ru\System.Spatial.resources.dll
 C:\Users\Meglena\Documents\TestSettings\TestSettings\TestSettings\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\Meglena\Documents\TestSettings\TestSettings\TestSettings\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\Meglena\Documents\TestSettings\TestSettings\TestSettings\obj\Staging\TestSettings.csprojResolveAssemblyReference.cache
 C:\Users\Meglena\Documents\TestSettings\TestSettings\TestSettings\obj\Staging\TestSettings.dll
+C:\Users\Meglena\Documents\TestSettings\TestSettings\TestSettings\obj\Staging\TestSettings.csprojResolveAssemblyReference.cache

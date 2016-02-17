@@ -1,0 +1,6 @@
+C:\Users\Meglena\Documents\TestSettings\TestSettings\Tests\bin\Tests.dll.config
+C:\Users\Meglena\Documents\TestSettings\TestSettings\Tests\bin\Tests.dll
+C:\Users\Meglena\Documents\TestSettings\TestSettings\Tests\bin\Tests.pdb
+C:\Users\Meglena\Documents\TestSettings\TestSettings\Tests\obj\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Meglena\Documents\TestSettings\TestSettings\Tests\obj\Release\Tests.dll
+C:\Users\Meglena\Documents\TestSettings\TestSettings\Tests\obj\Release\Tests.pdb
